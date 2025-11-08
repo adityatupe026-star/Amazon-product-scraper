@@ -24,7 +24,7 @@ A robust, production-ready web scraping framework capable of adapting to multipl
 
 1. Clone the repository (or download ZIP):
     ```bash
-    git clone https://github.com/yourusername/web-scraper.git
+    git clone https://github.com/adityatupe026-star/web-scraper.git
     cd web-scraper
     ```
 
@@ -145,10 +145,19 @@ DEFAULT_SELECTORS = {
 - Certain anti-bot measures may require manual intervention
 - Rate limiting might affect large-scale scraping
 
-## 📜 License
+## 👨‍💻 Author
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+**Aditya (Aadiiii)**  
+B.Tech in AI/ML | Passionate Programmer | Tech Explorer  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aditya-tupe45)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/adityatupe026-star)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel)](https://adityatupe026-star.github.io/Portfolio/)  
+[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:adityatupe026@gmail.com)
+
+> “Building things that make tech smarter and life easier.”
 
 ## 📧 Support
+
 
 For support, please open an issue in the GitHub repository or contact the maintainers.
